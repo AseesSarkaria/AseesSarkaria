@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on dataexpert.io<br>👯 I’m looking to collaborate on quantitative financial analysis<br>🤝 I’m looking for help with machine learning<br>🌱 I’m currently learning data engineering principles <br>💬 Ask me about psychometrics<br>⚡ Fun fact: I study autoimmune diseases in my free time
+🔭 I’m currently working on **dataexpert.io**<br>👯 I’m looking to collaborate on **quantitative financial analysis**<br>🤝 I’m looking for help with **machine learning**<br>🌱 I’m currently learning **data engineering principles** <br>💬 Ask me about **psychometrics**<br>⚡ Fun fact: I study **autoimmune diseases** in my free time
 
 
 ## 🌐 Socials:
